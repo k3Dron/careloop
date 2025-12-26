@@ -19,6 +19,20 @@ CARELOOP provides:
 - **Appointment Organization**: Keep track of all doctor visits and care plans
 - **Privacy-First Design**: All data stored securely with Firebase
 
+# Download and Install the App
+
+You can download the APK from the link below:
+
+[Download APK](https://drive.google.com/file/d/1O7C_395tJerQuXwfgR6QuonqmqcW2sDx/view?usp=sharing)
+
+## Instructions
+
+1. Click the link above to open the download page.
+2. Download the APK to your device.
+3. Open the APK file to install the app.
+4. If you see any errors while opening or using the app, simply **reload the application**.
+
+
 ## 🏗️ Tech Stack
 
 - **Framework**: Flutter (Material 3)
